@@ -20,6 +20,20 @@ IBM Telco Customer Churn Dataset
 * Google Colab
 
 ## Machine Learning Model
+## Model Performance
+
+Accuracy: 79.42%
+
+## Key Findings
+
+- Customers with month-to-month contracts have a higher probability of churning.
+- Customers with higher monthly charges tend to leave more frequently.
+- Long-term customers show lower churn rates.
+- Contract type and tenure are among the most important factors affecting churn.
+
+## Business Impact
+
+The model can help telecom companies identify customers at risk of leaving and take proactive retention measures, reducing customer loss and improving revenue.
 
 Random Forest Classifier
 
